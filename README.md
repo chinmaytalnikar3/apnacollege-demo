@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository
 <br>
-Auther - Chinmay Talnikar
+Auther - Chinmay (Team India Player)
